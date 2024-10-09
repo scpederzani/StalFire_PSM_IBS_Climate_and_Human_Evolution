@@ -1,5 +1,7 @@
-# StalFire_PSM_IBS_Climate_and_Human_Evolution
-Poster for the IBS Center for Climate Physics conference on Climate and Human Evolution
+# Joint climate and fire histories from stalagmites – a Bayesian proxy system modelling approach
+Sarah Pederzani, Isabel Montañez, Jessica L. Oster, Eliot A. Atekewana, Yuval Burstyn, Cameron de Wet, Elizabeth M. Griffith, Michael Hren, Kesego P. Letshele, Erica A. Scarpitti, Jonathan Smolen, Zhao Wang, Aida Zyba, Gabriel Bowen
+
+Poster for the IBS Center for Climate Physics conference on Climate and Human Evolution. 
 
 # Selected publications associated with the StalFire projects and its stalagmite records
 
